@@ -4,7 +4,7 @@
     <meta charset="utf-8">
   </head>
   <body>
-    <form action="send.php" method="get">
+    <form action="send.php" method="post">
       名前<input type="text" name="name"><br>
       年齢<input type="text" name="age"><br>
       メアド<input type="text" name="email"><br>
